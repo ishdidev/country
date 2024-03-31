@@ -4,7 +4,9 @@ This repository contains standalone PHP country classes. This can be used for li
 
 #### Installation
 
-[GitHub](https://github.com/ishdidev/country) - Download the latest code
+```
+composer require ishdidev/country
+```
 
 Available Methods
 --------------------

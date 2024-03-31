@@ -1,0 +1,30 @@
+{
+    "name": "ishdidev/country",
+    "description": "A simple library to list countries.",
+    "homepage": "https://github.com/ishdidev/country",
+    "keywords": [
+        "php",
+        "country"
+    ],
+    "authors": [
+        {
+            "name": "Ishdi Dev",
+            "email": "dev@ishdi.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Muhammed Naushad",
+            "email": "me@stunningspider.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.4||^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ishdidev\\Country\\": "src"
+        }
+    }
+}
